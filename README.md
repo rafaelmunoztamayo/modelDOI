@@ -20,3 +20,7 @@ plotcases: function that plots the response of the model for two cases of model 
 
 
 Friggens, N.C., M.G.G. Chagunda, M. Bjerring, C. Ridder, S. Højsgaard, and T. Larsen. 2007. Estimating Degree of Mastitis from Time-Series Measurements in Milk: A Test of a Model Based on Lactate Dehydrogenase Measurements. Journal of Dairy Science 90:5415–5427. doi:10.3168/JDS.2007-0148.
+
+## License
+
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](./LICENSE) 
